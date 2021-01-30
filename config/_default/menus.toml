@@ -6,39 +6,28 @@
 [[main]]
   name = "About"
   url = "#about"
-  weight = 1
+  weight = 10
 
 [[main]]
   name = "OI Notes"
-  url = "#book"
-  weight = 2
-
-
+  url = "notes_io/"
+  weight = 20
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 5
+  name = "CS Notes"
+  url = "notes_cs/"
+  weight = 21
+
+[[main]]
+  name = "Fin Notes"
+  url = "notes_fin/"
+  weight = 22
+
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 5
-
-#[[main]]
-#  name = "Talks"
-#  url = "#talks"
-#  weight = 40
-
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 50
-
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 60
+  weight = 40
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -46,4 +35,4 @@
 [[main]]
    name = "CV"
    url = "media/resume.pdf"
-   weight = 70
+   weight = 50

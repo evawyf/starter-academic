@@ -21,25 +21,18 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Algorithm Scientist Intern
+    company: Dynam.AI
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: San Diego, CA
+    date_start: '2020-08-19'
+    date_end: '2020-12-19'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Machine Learning: Researched interpretable machine learning; signal processing.
+        * Data Engineering: Developed scraping and parsing tools, pipeline API.
+
 ---

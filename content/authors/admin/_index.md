@@ -10,7 +10,7 @@ role: M.S. in Computational Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California, San Diego
+- name: University of California, San Diego (UCSD)
   url: https://www.ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,9 +18,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Machine Learning
+- Recommendation Systems
 - Distributed Systems
 - Data Engineering
+- Cloud Computing
+- Quantitative Finance
 
 # Education to show in About widget
 education:
