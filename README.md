@@ -5,4 +5,3 @@ By Hugo + Academic theme, Netlify.
 ```
 hugo server
 ```
-
