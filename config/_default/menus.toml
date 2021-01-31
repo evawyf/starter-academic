@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "LeetCode"
+  name = "Problem Solving"
   url = "notes_io/"
   weight = 20
 
@@ -19,12 +19,12 @@
   weight = 21
 
 [[main]]
-  name = "Quant"
+  name = "Quant Foundation"
   url = "notes_fin/"
   weight = 22
 
 [[main]]
-  name = "Programming"
+  name = "Programming Language"
   url = "notes_lang/"
   weight = 23
 
