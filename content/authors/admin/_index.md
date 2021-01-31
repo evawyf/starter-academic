@@ -74,7 +74,7 @@ highlight_name: false
 
 I’m a current master's student at UCSD majoring in Computational Science (CS & Math). I'm interested in machine learning infrastructure, recommendition systems, distributed systems, and quantitative research.
 
-I'm looking for a full-time Software Engineer or Machine Learning Engineer role now.
+This website is my learning notes. 
 
 Programming:
 - Python, Go (GoLang), C++.

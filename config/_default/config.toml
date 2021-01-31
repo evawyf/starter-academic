@@ -6,7 +6,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Eva"
+title = "L Graphics"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -39,7 +39,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
 
 [permalinks]
   # If only creating events which are talks, we can optimize event URLs for talks.
-  event = "/talk/:slug/"
+  # event = "/talk/:slug/"
   # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
   tags = "/tag/:slug/"
   categories = "/category/:slug/"

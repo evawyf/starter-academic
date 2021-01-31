@@ -9,20 +9,24 @@
   weight = 10
 
 [[main]]
-  name = "OI Notes"
+  name = "LeetCode"
   url = "notes_io/"
   weight = 20
 
 [[main]]
-  name = "CS Notes"
+  name = "CS Foundation"
   url = "notes_cs/"
   weight = 21
 
 [[main]]
-  name = "Fin Notes"
+  name = "Quant Fin"
   url = "notes_fin/"
   weight = 22
 
+[[main]]
+  name = "Programming"
+  url = "notes_lang/"
+  weight = 23
 
 [[main]]
   name = "Projects"
@@ -32,7 +36,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
-[[main]]
-   name = "CV"
-   url = "media/resume.pdf"
-   weight = 50
+#[[main]]
+#   name = "CV"
+#   url = "media/resume.pdf"
+#   weight = 50
