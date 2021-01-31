@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2021-10-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -34,7 +34,7 @@ item:
 
 - certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2018-03-01"
+  date_start: "2020-03-01"
   description: ""
   organization: deeplearning.ai
   organization_url: https://www.edx.org
@@ -42,8 +42,8 @@ item:
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
 - certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_end: ""
+  date_start: "2020-10-01"
   description: ""
   organization: Coursera
   organization_url: https://www.datacamp.com
