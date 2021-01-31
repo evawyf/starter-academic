@@ -4,32 +4,32 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "🏡 Home"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Problem Solving"
+  name = "🤔 Problem Solving"
   url = "notes_io/"
   weight = 20
 
 [[main]]
-  name = "CS Foundation"
+  name = "📚 CS Foundation"
   url = "notes_cs/"
   weight = 21
 
 [[main]]
-  name = "Quant Foundation"
+  name = "📊 Quant Foundation"
   url = "notes_fin/"
   weight = 22
 
 [[main]]
-  name = "Programming Language"
+  name = "💻 Programming Language"
   url = "notes_lang/"
   weight = 23
 
 [[main]]
-  name = "Projects"
+  name = "💡 Projects"
   url = "#projects"
   weight = 40
 
@@ -42,6 +42,6 @@
 #   weight = 50
 
 [[main]]
-  name = "Hakuna Matata"
+  name = "🦄 Hakuna Matata"
   url = "https://www.elvawyf.com/"
   weight = 100
