@@ -19,7 +19,7 @@
   weight = 21
 
 [[main]]
-  name = "Quant Fin"
+  name = "Quant"
   url = "notes_fin/"
   weight = 22
 
